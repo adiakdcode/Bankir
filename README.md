@@ -1,5 +1,5 @@
 Project PHP "BANKIR"
-Mnegunakan 
+Menggunakan 
 CSS FrameWork : Materialize CSS
 DB            : MySQL
 dibuat oleh :
